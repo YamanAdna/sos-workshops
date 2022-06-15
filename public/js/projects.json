@@ -6,9 +6,9 @@
       "teams": {
         "frontend": [
           {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
+            "name": "Mohammad Alghareeb",
+            "linkedin": "https://www.linkedin.com/in/mohammad-al-ghareeb-3b5351232",
+            "facebook": "https://www.facebook.com/mhmdaghryba"
           },
           {
             "name": "karam mustafa",
@@ -25,11 +25,12 @@
         ],
         "mobile": [
           {
+            "name": "Ahmad Albetar",
             "name": "Yaman",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
+            "facebook": "https://www.facebook.com/"
           },{
-            "name": "karam mustafa",
+            "name": "Yaman",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
             "facebook": "https://www.facebook.com/karam2mustafa"
           }
@@ -60,7 +61,7 @@
           }
         ],
         "product_owner": {
-          "name": "karam mustafa",
+          "name": "Naser Dakhel",
           "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
           "facebook": "https://www.facebook.com/karam2mustafa"
         },
