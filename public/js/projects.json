@@ -6,9 +6,9 @@
       "teams": {
         "frontend": [
           {
-            "name": "karam mustafa",
-            "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
+            "name": "Mohammad Alghareeb",
+            "linkedin": "https://www.linkedin.com/in/mohammad-al-ghareeb-3b5351232",
+            "facebook": "https://www.facebook.com/mhmdaghryba"
           },
           {
             "name": "karam mustafa",
@@ -35,9 +35,9 @@
         ],
         "mobile": [
           {
-            "name": "karam mustafa",
+            "name": "Ahmad Albetar",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-            "facebook": "https://www.facebook.com/karam2mustafa"
+            "facebook": "https://www.facebook.com/"
           },{
             "name": "karam mustafa",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
@@ -68,7 +68,7 @@
         ],
         "testers": [
           {
-            "name": "karam mustafa",
+            "name": "Mustafa Fares",
             "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
             "facebook": "https://www.facebook.com/karam2mustafa"
           },{
@@ -77,11 +77,20 @@
             "facebook": "https://www.facebook.com/karam2mustafa"
           }
         ],
-        "product_owner": {
+        "product_owner": [{
           "name": "Naser Dakhel",
           "linkedin": "https://www.linkedin.com/in/naser-dakhel",
           "facebook": "https://www.facebook.com/naser.dakhel.3"
-        },
+        },{
+        "name": "Siba Ashrafi",
+          "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
+          "facebook": "https://www.facebook.com/karam2mustafa"
+        
+      },{
+     "name": "Manar Bakir",
+          "linkedin": "https://www.linkedin.com/in/manar-bakir-3b5962227"
+          "facebook": "https://www.facebook.com/manar.bakir.549" 
+    }]
         "scrum_master": {
           "name": "karam mustafa",
           "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
