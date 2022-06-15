@@ -1,1 +1,2 @@
-# sos-workshops
+# sos-agile-workshop
+
