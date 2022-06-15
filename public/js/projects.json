@@ -76,7 +76,7 @@
          {
            "title": "As a user I want to be able to register new account",
            "acceptance_criteria": {
-             "what": "What is the requirement",
+             "what": "A login page",
              "why": "Why you want to develop this feature",
              "when": "When you want to develop this feature"
            },
