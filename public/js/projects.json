@@ -59,11 +59,17 @@
             "facebook": "https://www.facebook.com/karam2mustafa"
           }
         ],
-        "product_owner": {
+        "product_owner":[
+          {
           "name": "Naser Dakhel",
           "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
           "facebook": "https://www.facebook.com/karam2mustafa"
-        },
+        },{
+          "name": "Siba Ashrafi",
+          "linkedin": "https://www.linkedin.com/in/siba-ashrafi/",
+          "facebook": "https://www.facebook.com/siba.ashrafi"
+        }
+          ],
         "scrum_master": {
           "name": "ALi Alhussein",
           "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
