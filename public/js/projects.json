@@ -61,8 +61,8 @@
         ],
         "product_owner": {
           "name": "Naser Dakhel",
-          "linkedin": "https://www.linkedin.com/in/karam2mustafa/",
-          "facebook": "https://www.facebook.com/karam2mustafa"
+          "linkedin": "https://www.linkedin.com/in/naser-dakhel",
+          "facebook": "https://www.facebook.com/naser.dakhel.3"
         },
         "scrum_master": {
           "name": "ALi Alhussein",
@@ -75,8 +75,8 @@
          {
            "title": "As a user I want to be able to register new account",
            "acceptance_criteria": {
-             "what": "A login page",
-             "why": "Why you want to develop this feature",
+             "what": "A login page that asks the user different",
+             "why": "Decide what features to prompt the user to",
              "when": "When you want to develop this feature"
            },
            "estimation": "5"
